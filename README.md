@@ -1,5 +1,7 @@
 ## Welcome to GitHub Games
 
+TEST 1
+
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: https://gh-training-schl2.github.io/github-games-PISALDAN/
